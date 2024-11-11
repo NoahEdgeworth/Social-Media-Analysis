@@ -6,11 +6,6 @@ Speaking of the data, I got it from Kaggle.com, the link is https://www.kaggle.c
 ## Overview
 This project is using mock data of 1000 users on various social media apps and tracking their likes, follows, posts, and minutes spent per day on the said apps. This analysis could be used by marketing teams to see what apps and types of engagement lead to the most impressions and get the most value out of their ads.
 
-# Comprehensive Data Analysis Report
-
-## Overview
-This report details the key questions addressed in the data analysis project, showcases the SQL code used, presents visualizations created in Tableau, and provides insights drawn from the analysis.
-
 ## Table of Contents
 1. [Question 1a: User Engagement](#question-1a-user-engagement)
 2. [Question 2a: Content Creation and Interaction](#question-2a-content-creation-and-interaction)
