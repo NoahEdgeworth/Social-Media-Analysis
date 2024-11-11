@@ -3,8 +3,10 @@
 Thank you for checking out my mock analysis for social media usage. This project is beginner-level and uses SQL queries to analyze the data set and draw results and insights.
 Speaking of the data, I got it from Kaggle.com, the link is https://www.kaggle.com/datasets/bhadramohit/social-media-usage-datasetapplications/data.
 
-I have finished all the queries, each sql file including the question that we needed to answer and most of them include written insights that I pulled from the query results. 
-At the time of making this I am still working on the data visualizations associated with some of the questions. Those are being done in Tableau, and will be uploaded as soon as
-they are completed. 
+## Overview
+This project is using mock data of 1000 users on various social media apps and tracking their likes, follows, posts, and minutes spent per day on the said apps. This analysis could be used by marketing teams to see what apps and types of engagement lead to the most impressions and get the most value out of their ads.
 
-After Completing them, I will also add a more advanced README file that runs through each question, with charts, sql, and the queries associated to each question. 
+
+
+
+
